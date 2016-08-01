@@ -1,9 +1,15 @@
 *Clifton JS*
+
 -------------------------------------------
+
 ![Clifton Logo](https://github.com/five-prime/cliftonjs/blob/master/app/images/logo.png)
+
 ---------------------------------------------------------------------
+
 It's Flexible, Logical, Professional, and Exaggerated
 
+---------------------------------------------------------------------
+*Getting Started*
 - It Starts With Yeoman 
   - [Yeoman.io](http://yeoman.io)
   - `npm install -g yo`
@@ -14,6 +20,7 @@ It's Flexible, Logical, Professional, and Exaggerated
   - `yo angular`
 - Build A Controller, Configure A Route, Build A View Too
   - `yo angular:route routeName`
+
 --------------------------------------
 Run in the app root directory:
 `grunt serve`
