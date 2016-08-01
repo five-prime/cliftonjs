@@ -13,7 +13,7 @@ It's Flexible, Logical, Professional, and Exaggerated
 - Yeoman Scaffolds Everything
   - `yo angular`
 - Build A Controller, Configure A Route, Build A View Too
-  - `yo angular:route routeName`
+  - `o angular:route routeName`
 --------------------------------------
 Run in the app root directory:
 `grunt serve`
