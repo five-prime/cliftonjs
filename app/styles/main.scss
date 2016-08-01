@@ -24,7 +24,7 @@ body {
 
 /* Custom page header */
 .header {
-  border-bottom: 1px solid #e5e5e5;
+
   margin-bottom: 10px;
 
   /* Make the masthead heading the same height as the navigation */
@@ -35,6 +35,25 @@ body {
     padding-bottom: 19px;
   }
 }
+/* Dev List */
+.contact{
+  border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    .info{
+
+
+    }
+
+}
+
+/* Contact List */
+
+#information span {
+  font-size: 300px;
+
+  }
+
+
 
 /* Custom page footer */
 .footer {

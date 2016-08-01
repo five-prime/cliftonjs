@@ -1,4 +1,4 @@
-'use strict';
+
 
 /**
  * @ngdoc overview
@@ -20,22 +20,22 @@ angular
     $routeProvider
       .when('/', {
         templateUrl: 'views/main.html',
-        controller: 'MainCtrl',
+        controller: 'mainController',
         controllerAs: 'main'
       })
       .when('/about', {
         templateUrl: 'views/about.html',
-        controller: 'AboutCtrl',
+        controller: 'aboutController',
         controllerAs: 'about'
       })
       .when('/home', {
         templateUrl: 'views/home.html',
-        controller: 'HomeCtrl',
+        controller: 'homeController',
         controllerAs: 'home'
       })
       .when('/docs', {
 	templateUrl: 'views/docs.html',
-	controller: 'DocsCtril',
+	controller: 'docsController',
 	controllerAs: 'docs'
       })	
       .otherwise({

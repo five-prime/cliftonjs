@@ -1,4 +1,4 @@
-e strict';
+'use strict';
 
 /**
  * @ngdoc function
@@ -8,7 +8,7 @@ e strict';
  * Controller of the cliftonApp
  */
 angular.module('cliftonApp')
-  .controller('DocsCtrl', function () {
+  .controller('docsController', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',

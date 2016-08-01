@@ -8,7 +8,7 @@
  * Controller of the cliftonApp
  */
 angular.module('cliftonApp')
-  .controller('AboutCtrl', function () {
+  .controller('aboutController', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
